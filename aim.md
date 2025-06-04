@@ -16,6 +16,10 @@ When the trades were taken
 - **Return**
 - **Buy and Hold Return**
 - **Total Profit**
+- **Best days**
+-**Loosing streak**
+-**winning streaks**
+- **Worst days**
 - **Initial Capital**
 - **Winning Trades**
 - **Losing Trades**
